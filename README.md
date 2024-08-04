@@ -5,7 +5,7 @@ I learned about html css js since middle school and I taught it all by myself. N
 
 * 🌍  I'm based in Chonburi
 * ✉️  You can contact me at [toaiseriesandcat@gmail.com](mailto:toaiseriesandcat@gmail.com)
-* 🚀  I'm currently working on [Web game, which is a game about searching for goals through face book.](http://pppangpone.byethost12.com/signup.html)
+* 🚀  I'm currently working on [New project.](https://github.com/pp300950/PyBlocks)
 * 🧠  I'm learning about CPU and RAM architecture and am learning more programming languages ​​like fortran, algorithms about Machine learning
 * ⚡  I am a forgetful man.
 
