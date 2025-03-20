@@ -1,9 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phongsakorn Phabjansing
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My nickname is PungPon
 ===============================================================================================================================================
 
 I learned about html css js since middle school and I taught it all by myself. Nowadays I can write more than that. But I can't remember everything.
 
-* 🌍  I'm based in Thailand
+* 🌍  I'm based in Thailand,Chonburi
 * ✉️  You can contact me at [toaiseriesandcat@gmail.com](mailto:toaiseriesandcat@gmail.com)
 * 🧠  I'm learning about CPU and RAM architecture and am learning more programming languages ​​like fortran, algorithms about Machine learning
 * ⚡  I am a forgetful man.
